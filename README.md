@@ -2,7 +2,7 @@
 
 ## Live Demo
 Hugging Face Deployment:
-(Add your hugging face link here)
+https://huggingface.co/spaces/Anshusharma13/medicine-recommendation-system
 
 ## Overview
 This project recommends medicines based on user symptoms using machine learning classification models.
