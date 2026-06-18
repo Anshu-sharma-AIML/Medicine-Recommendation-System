@@ -7,7 +7,7 @@ An AI-powered system that recommends medicines based on patient symptoms using *
 ---
 
 ## 🚀 Live Demo
-👉 **[Click here to try the app](https://your-streamlit-link-here.streamlit.app)**
+👉 **[Click here to try the app](https://medicine-recommendation-system-qdy8nckybdj53pqsmza6nz.streamlit.app/)**
 
 ---
 
