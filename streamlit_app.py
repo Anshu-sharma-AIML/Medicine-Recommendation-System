@@ -856,13 +856,12 @@ def load_and_train():
         class_weight='balanced'
     )
     lr = LogisticRegression(
-        max_iter=1000,
-        C=2.0,
-        class_weight='balanced',
-        random_state=42,
-        solver='lbfgs',
-        multi_class='multinomial'
-    )
+    max_iter=1000,
+    C=2.0,
+    class_weight='balanced',
+    random_state=42,
+    solver='lbfgs',
+)
     svc_base = LinearSVC(
         C=1.0,
         class_weight='balanced',
